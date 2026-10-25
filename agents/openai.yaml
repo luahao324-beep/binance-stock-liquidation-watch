@@ -1,0 +1,4 @@
+interface:
+  display_name: "币安股票合约急跌监控"
+  short_description: "检查休市急跌、区分清算证据，并回放历史事件与跟踪后续修复"
+  default_prompt: "使用 $binance-stock-liquidation-watch 检查币安股票合约休市急跌，报告清算证据和修复情况。"
